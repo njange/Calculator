@@ -43,8 +43,7 @@ form .display{
 }
 
 form .display input{
-
-    text-align: left;
+    text-align: right;
     flex: 1;
     font-size: 45px;
     box-shadow: none;
